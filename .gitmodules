@@ -1,0 +1,3 @@
+[submodule "TheSecondPlayground"]
+	path = TheSecondPlayground
+	url = https://github.com/AlexeyKryuchkov/TheSecondPlayground.git
